@@ -1,5 +1,7 @@
 # Hidden Convexity
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17610913.svg)](https://doi.org/10.5281/zenodo.17610913)
+
 This repository provides the official code for the paper:  
 
 **"Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity"**  
