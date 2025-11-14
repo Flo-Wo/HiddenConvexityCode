@@ -48,7 +48,7 @@ make figure_1_ab
 
 ## Citation
 If you use this code, please cite our work:
-```latex
+```bibtex
 @misc{fatkhullin2025globalsolutionsnonconvexfunctional,
       title={Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity}, 
       author={Ilyas Fatkhullin and Niao He and Guanghui Lan and Florian Wolf},
